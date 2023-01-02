@@ -19,5 +19,6 @@ Este repositorio contiene los ejercicios del módulo 2, sprint 2, del Bootcamp d
 
 
 **3. Integrantes 👩👩
- *[Marta] (https://github.com/MartaOrdas)
+  
   *[Ximena](https://github.com/XimenaPTM)
+  *[Marta](https://github.com/MartaOrdas)
