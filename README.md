@@ -26,13 +26,14 @@ Carpeta: datos: Contiene los archivos utilizados para la realización de los eje
   
 **2. Limpieza 	:broom:**
 
-En este segundo bloque realizamos los primeros cambios en nuestros datos, de este modo los preparamos para que sean lo más útiles posible de cara a responder las preguntas que nos planteamos. 
+    En este segundo bloque realizamos los primeros cambios en nuestros datos, de este modo los preparamos para que sean lo más útiles posible de cara a         responder las preguntas que nos planteamos. 
 
     1.Mod2-2-Limpieza1.ipynb > Primeros pasos de limpieza
     2.Mod2-2-Limpieza2.ipynb > Limpieza de columnas de tipo string
     3.Mod2-2-Limpieza3.ipynb > Detección y limpieza de outliers
     4.Mod2-2-Limpieza4.ipynb > Procesado de los valores nulos
     5.Mod2-2-Limpieza5.ipynb > Procesado de valores nulos mediante la librería Sklearn
+
 
 Carpeta: datos: Contiene los archivos utilizados para la realización de los ejercicios.
 
