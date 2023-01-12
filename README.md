@@ -11,6 +11,7 @@ Este repositorio contiene los ejercicios del módulo 2, sprint 2, del Bootcamp d
 4. Integrantes
 
 
+
 **1.EDA :bookmark_tabs:**
 
 En este primer apartado hemos llevado a cabo el análisis exploratorio de los datos (EDA), esto nos ha permitido analizar e investigar un conjunto de    datos y conocer inicialmente con qué estamos trabajando.
@@ -21,6 +22,7 @@ En este primer apartado hemos llevado a cabo el análisis exploratorio de los da
 
 Carpeta: datos: Contiene los archivos utilizados para la realización de los ejercicios.
 
+  
   
 **2. Limpieza 	:broom:**
 
@@ -33,6 +35,7 @@ En este segundo bloque realizamos los primeros cambios en nuestros datos, de est
     5.Mod2-2-Limpieza5.ipynb > Procesado de valores nulos mediante la librería Sklearn
 
 Carpeta: datos: Contiene los archivos utilizados para la realización de los ejercicios.
+
 
 
 3. ETL 🌠 
@@ -48,6 +51,7 @@ Carpeta: datos: Contiene los archivos utilizados para la realización de los eje
     aprendemos a crear un ejecutable en Python
     
 Carpeta: datos y files: Contienen los archivos utilizados y generados en la realización de los ejercicios.
+
 
 **4. Integrantes 👩👩**
   
