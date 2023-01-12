@@ -12,10 +12,12 @@ Este repositorio contiene los ejercicios del módulo 2, sprint 2, del Bootcamp d
 
 **1.EDA :bookmark_tabs:**
 
-1.
-2.
-3.
-datos: En esta carpeta se han guardado los archivos utilizados para el desarrollo de los ejercicios
+  1. Mod2-2-EDA-1.ipynb
+  2. Mod2-EDA-2.ipynb
+  3. Mod2-2-EDA-3.ipynb
+
+  Carpeta:
+  datos: En esta carpeta se han guardado los archivos utilizados para el desarrollo de los ejercicios
 
 
 **2. Limpieza 	:broom:**
