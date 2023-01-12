@@ -35,7 +35,7 @@ En este segundo bloque realizamos los primeros cambios en nuestros datos, de est
 Carpeta: datos: Contiene los archivos utilizados para la realización de los ejercicios.
 
 
-**3. ETL 🌠 
+3. ETL 🌠 
 
     En este punto podremos extraer, transformar y cargar los datos (ETL) para su procesado.
     
