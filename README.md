@@ -2,7 +2,7 @@
 
 Repositorio del módulo 2, sprint 2.
 
-Este repositorio contiene los ejercicios del módulo 2, sprint 2, del Bootcamp de Análisis de Datos de Adalab en que se trabajan las siguientes temáticas: EDA y Limpieza.
+Este repositorio contiene los ejercicios del módulo 2, sprint 2, del Bootcamp de Análisis de Datos de Adalab en que se trabajan las siguientes temáticas: EDA ,Limpieza y ETL.
 
 **Indice 💻**
 1. EDA
