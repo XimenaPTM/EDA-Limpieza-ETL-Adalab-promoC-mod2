@@ -7,9 +7,8 @@ Este repositorio contiene los ejercicios del módulo 2, sprint 2, del Bootcamp d
 **Indice 💻**
 1. EDA
 2. Limpieza
-3. Integrantes
-
-
+3. ETL
+4. Integrantes
 
 **1.EDA :bookmark_tabs:**
 
