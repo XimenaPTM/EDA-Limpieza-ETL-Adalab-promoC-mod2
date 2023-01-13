@@ -39,7 +39,7 @@ Carpeta: datos: Contiene los archivos utilizados para la realización de los eje
 
 
 
-**3. ETL 🌠 **
+3. ETL 🌠 
 
 En este punto hemos extraído, transformado y cargado los datos (ETL) para su procesado.
     
