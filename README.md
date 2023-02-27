@@ -1,4 +1,6 @@
-# DA-promoC-Mod2-sprint2-MartaYXimena
+<img src="https://github.com/XimenaPTM/project2-da-promo-c-modulo-2-team4/blob/main/Ximena%20trujillo%20morillo.png" width="600" align='center'>
+
+### DA-promoC-Mod2-sprint2
 
 Repositorio del módulo 2, sprint 2.
 
